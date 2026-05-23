@@ -1,4 +1,4 @@
-# PCAGP:A Parallel Convolution Attention Network for Crop Genomic Prediction
+# PCAGP: A Parallel Convolution Attention Network for Crop Genomic Prediction
 
 
 Main project structure:
